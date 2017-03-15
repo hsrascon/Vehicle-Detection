@@ -1,5 +1,5 @@
 # Vehicle-Detection
-Software pipeline that detects and tracks vehicles in a video from a front-facing camera on a car using color and gradient features and a support vector machine classifier.
+Software pipeline that detects and tracks vehicles in a video from a front-facing camera on a car using color and gradient features and a support vector machine classifier. Please refer to `writeup_report.md` for a detailed discussion about the project.
 
 In this project, your goal is to write a software pipeline to detect vehicles in a video (start with the test_video.mp4 and later implement on full project_video.mp4).  
 
