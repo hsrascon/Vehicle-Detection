@@ -80,7 +80,7 @@ The images above do not take into account the correction for false positives whi
 ### Video Implementation
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
-Here's a [link to my video result](./test_output1.mp4)
+Here's a [link to my video result](https://drive.google.com/file/d/0B-vUaJ15H_sHeUNVMkpERF84NGM/view?usp=sharing)
 
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
